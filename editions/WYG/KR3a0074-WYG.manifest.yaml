@@ -1,0 +1,56 @@
+canonical_identifier: bkk:krp/KR3a0074/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3a0074/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 治世龜鑑
+  date: '2015-08-24 22:59:55.230569'
+  source:
+    repository: kanripo
+    path: KR3a0074
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3a0074_000-WYG.yaml, hash: 'sha256:1c6920a1c54ff20d2152431a6c5ad6045d8e5d905f07f2a30c18369c53808929'}
+  - {seq: 1, filename: KR3a0074_001-WYG.yaml, hash: 'sha256:f8f6a57a4607aa9ae64fc9392b91021dd63ef9448293527ca60fb6f22596ec66'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3a0074_000-WYG.markers.yaml, hash: 'sha256:6692068b896b5098086dcc3403cd12dddc176aa58a6001cfba850479c1c77993'}
+  - {seq: 1, role: markers, filename: assets/KR3a0074_001-WYG.markers.yaml, hash: 'sha256:ef299a33c000349ac88f9ad07f19c86262c8c3ec0aa301fefe333892ca29c36a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3a0074_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 346
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0074_WYG_000-3a
+    span:
+    - body
+    - 346
+    - 1340
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3a0074_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 10109
+  label: 治世龜鑑
+  type: section
+  level: 1
+hash: sha256:01efc5be198e94cc8c5ee88ff14da5ba07cbf5db97fa74f62947c3c64e7abe06
