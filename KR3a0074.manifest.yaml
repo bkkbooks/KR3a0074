@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR3a0074_000.yaml, hash: 'sha256:fbe3db6b8120be6c83548438b90ccd5cd66ab5087e4ff5ec64ee0765ebc36700'}
   - {seq: 1, filename: KR3a0074_001.yaml, hash: 'sha256:121c6a81ec3982610159f8626882f332ce3f624f1884caabefcdb59728052d44'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0074_000.markers.yaml, hash: 'sha256:e2f16809877bbcf6415e0c74cca8d7237dbf197000bdcc26bb8345f476e1aa1b'}
+  - {seq: 0, role: markers, filename: assets/KR3a0074_000.markers.yaml, hash: 'sha256:01dd9fc622470760d215187df0539a67107d02a4095cdba77f51ea94bcf147bc'}
   - {seq: 1, role: markers, filename: assets/KR3a0074_001.markers.yaml, hash: 'sha256:e59b1ab45f666bb1ee8948b9fd6c6fbd38cdfb2fc828527489b3c8a0e47def53'}
 table_of_contents:
 - ref:
@@ -56,7 +56,7 @@ table_of_contents:
   label: 治世龜鑑
   type: section
   level: 1
-hash: sha256:ae620311567dfaa7746742354dde183b3d43fc671ac302dfe2cde46e2be234c2
+hash: sha256:6df163e018c25ef4d33572eac574c0eb9b2c648e807c7b90e5f70432411df14a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
